@@ -12,10 +12,10 @@
     </a>
     <a href="https://c3-lang.org/">
         <img src="https://c3-lang.org/logo.svg"
-            alt = "Rust-lang logo" height="99%">
+            alt = "Rust-lang logo" height="75px">
     </a>
     <a href="https://www.rust-lang.org/">
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F700854.png&f=1&nofb=1&ipt=8c64c8ad080d73f21aeb68275b8bdc6a962f5ee2b155a7c45e35e94c2aa40906&ipo=images"
-            alt = "Rust-lang logo" height="100%">
+            alt = "Rust-lang logo" height="75px">
     </a>
 </div>
