@@ -16,7 +16,7 @@
 <br />  
 
 #  
-## **My stats** 📊  
+**My stats** 📊  
 
 [![EmaB4r's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmaB4r&theme=tokyonight)]()
 
