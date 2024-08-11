@@ -7,7 +7,7 @@
 ---
 ## **Languages and tools** 🧰
 <html>
-    <div style="width: 700px; height: 110px; display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 1000px; height: 110px; display: flex; justify-content: space-between; align-items: center;">
         <a>
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkit.com%2Fpng%2Ffull%2F101-1010012_download-png.png&f=1&nofb=1&ipt=c59609bc0540269d0897694fd35ef39e9fe8d85d3554e39d9f13c1fb6bccae3e&ipo=images"
                 alt = "C-lang logo" height=80px>
