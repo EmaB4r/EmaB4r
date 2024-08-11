@@ -5,42 +5,16 @@
 👾 Arduino, ESP32, RPPICO
 
 ---
-## **Languages and tools** 🧰
-<html>
-    <div style="width: 525px; height: 40px;display: flex; justify-content: space-between; align-items: center;">
-        <a>
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkit.com%2Fpng%2Ffull%2F101-1010012_download-png.png&f=1&nofb=1&ipt=c59609bc0540269d0897694fd35ef39e9fe8d85d3554e39d9f13c1fb6bccae3e&ipo=images"
-                alt = "C-lang logo" height=100%>
-        </a>
-        <a href="https://c3-lang.org/">
-            <img src="https://c3-lang.org/logo.svg"
-                alt = "Rust-lang logo" height=100%>
-        </a>
-        <a href="https://www.rust-lang.org/">
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F700854.png&f=1&nofb=1&ipt=8c64c8ad080d73f21aeb68275b8bdc6a962f5ee2b155a7c45e35e94c2aa40906&ipo=images"
-                alt = "Rust-lang logo" height=100%>
-        </a>
-        <a href="https://www.python.org/">
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=d002c245b1a5ee31ee5266cd40adaa7fe8a1b0a7593410375c3ac933ffcd810c&ipo=images"
-                alt = "Rust-lang logo" height=100%>
-        </a>
-        <a>
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fhtml5-logo-1.png&f=1&nofb=1&ipt=c70b53177418fcb82a4b4c0401ade5247a4ab511a6372c063babc59d00568e62&ipo=images"
-                alt = "Rust-lang logo" height=100%>
-        </a>
-        <div style="width: 60px; height: 100%; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-            <a>
-                <img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present-700x394.png" alt="Image 1" style="height: 103%; object-fit: cover; object-position: center;">
-            </a>
-        </div>
-        <a>
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FB%2Fbash-logo-BF4F6893D9-seeklogo.com.png&f=1&nofb=1&ipt=68d243c370ef2189b259582bcf0b7f3f2c6bca81c1d33341f8098e3432e763c7&ipo=images"
-                alt = "Rust-lang logo" height=100%>
-        </a>
-    </div>
+## **Languages and tools** 🧰 
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+---  
 
-</html>
----
 ## **My stats** 📊
 [![EmaB4r's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmaB4r&theme=tokyonight)]()
 
