@@ -4,7 +4,7 @@
 💾 Embedded enthusiast  
 👾 Arduino, ESP32, RPPICO
 
----
+---  
 ## **Languages and tools** 🧰
 <html>
     <div style="width: 1000px; height: 110px; display: flex; justify-content: space-between; align-items: center;">
@@ -41,7 +41,9 @@
 
 </html>
 ---  
+
 ## **My stats** 📊  
+
 [![EmaB4r's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmaB4r&theme=tokyonight)]()
 
 <details>
