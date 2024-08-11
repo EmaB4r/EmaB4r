@@ -16,12 +16,12 @@
 <br />  
 
 #  
-**My stats** 📊  
+##**My stats** 📊  
 
 [![EmaB4r's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmaB4r&theme=tokyonight)]()
 
 <details>
-  <summary>## About me</summary>
+  <summary>About me</summary>
   <p>I started programming when i was 13 using Arduinos and never stopped.
       I'm really passionate about finding solutions for hard problems and coding embedded systems.
       Built a <a href="https://www.youtube.com/watch?v=LnzuMJLZRdU" target="_blank">BE6502</a> and made myself an <a href = "https://github.com/EmaB4r/Arduino_EEPROM_programmer">EEPROM programmer</a> for it (reddit post <a href = "https://www.reddit.com/r/beneater/comments/1bno6kd/the_beginning_of_my_journey/">here</a>)</p>
