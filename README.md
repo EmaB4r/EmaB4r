@@ -7,7 +7,7 @@
 ---  
 ## **Languages and tools** 🧰
 <html>
-    <div style="width: 1000px; height: 75px; display: flex; justify-content: space-between; align-items: center;">
+    <div style="width: 1000px; height: 90px; display: flex; justify-content: space-between; align-items: center;">
         <a>
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkit.com%2Fpng%2Ffull%2F101-1010012_download-png.png&f=1&nofb=1&ipt=c59609bc0540269d0897694fd35ef39e9fe8d85d3554e39d9f13c1fb6bccae3e&ipo=images"
                 alt = "C-lang logo" height=80px>
@@ -29,9 +29,7 @@
                 alt = "Rust-lang logo" height=80px>
         </a>
         <div style="width: 60px; height: 80px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-            <a>
                 <img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present-700x394.png" alt="Image 1" style="height: 77px; object-fit: cover; object-position: center;">
-            </a>
         </div>
         <a>
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FB%2Fbash-logo-BF4F6893D9-seeklogo.com.png&f=1&nofb=1&ipt=68d243c370ef2189b259582bcf0b7f3f2c6bca81c1d33341f8098e3432e763c7&ipo=images"
