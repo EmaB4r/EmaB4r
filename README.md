@@ -1,6 +1,6 @@
 # [Polito](https://www.polito.it) Computer Engineering student 👩‍💻 
 
-`Digital Craftman`  
+`Manovale del Software`  
 💾 Embedded enthusiast  
 👾 Arduino, ESP32, RPPICO  
 
