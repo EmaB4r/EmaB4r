@@ -1,7 +1,7 @@
 # [Polito](https://www.polito.it) Computer Engineering student 👩‍💻 
 
-`Manovale del Software`
-**sposto i bit un po' a sinistra e un po' a destra**
+`Manovale del Software`  
+**sposto i bit un po' a sinistra e un po' a destra**  
 💾 Embedded enthusiast  
 👾 Arduino, ESP32, RPPICO  
 
